@@ -1,0 +1,13 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainScreen.unity
+    guid: 794f1fa79b72914448ec925e25f3ca3f
+  - enabled: 1
+    path: Assets/Scenes/Breakout.unity
+    guid: 55794831882c2b94fa7f30f5997f52b6
